@@ -1,4 +1,4 @@
-
-export function addTwoNumbers(/*aqui tambien va código*/){
-  //aqui va tu código
+function addTwoNumbers(a, b){
+  return a + b;
 }
+console.log(addTwoNumbers(3, 4));
